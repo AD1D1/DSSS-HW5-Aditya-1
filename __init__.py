@@ -4,5 +4,5 @@
 # In[ ]:
 
 
-from snowflake import let_it_dnow
+from snowflake import let_it_snow
 
