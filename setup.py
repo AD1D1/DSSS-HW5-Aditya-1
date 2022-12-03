@@ -12,9 +12,9 @@ setup(
     name='my_pip_package',
     version=__version__,
 
-    url='https://github.com/MichaelKim0407/tutorial-pip-package',
-    author='Michael Kim',
-    author_email='mkim0407@gmail.com',
+    url='https://github.com/AD1D1/DSSS-HW5-Aditya-1.git',
+    author='Aditya Dixit',
+    author_email='adityajdixit2@@gmail.com',
 
     py_modules=['my_pip_package'],
 )
