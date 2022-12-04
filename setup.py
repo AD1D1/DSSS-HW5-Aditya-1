@@ -14,7 +14,7 @@ setup(
 
     url='https://github.com/AD1D1/DSSS-HW5-Aditya-1.git',
     author='Aditya Dixit',
-    author_email='adityajdixit2@@gmail.com',
+    author_email='adityajdixit2@gmail.com',
 
     py_modules=['my_pip_package'],
 )
